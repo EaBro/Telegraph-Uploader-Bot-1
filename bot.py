@@ -1,5 +1,5 @@
 # Made with python3
-# (c) @FayasNoushad
+# (C) @FayasNoushad
 # Copyright permission under GNU General Public License v3.0
 # All rights reserved by FayasNoushad
 # License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE
