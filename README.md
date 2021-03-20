@@ -24,6 +24,10 @@ License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICE
   </a>
 </p>
 
+### Requirements
+
+`pip3 install -r requirements.txt`
+
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
