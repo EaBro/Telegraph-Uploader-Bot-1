@@ -7,7 +7,7 @@ Please fork this repository don't import code
 Made with Python 3
 (C) @FayasNoushad
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE 
+License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE
 ```
 
 ## Variables
@@ -32,3 +32,7 @@ License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICE
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * [Contributors](https://github.com/FayasNoushad/Telegraph-Uploader-Bot/graphs/contributors)
+
+### LICENSE
+
+[GNU General Public License v3.0](https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE)
