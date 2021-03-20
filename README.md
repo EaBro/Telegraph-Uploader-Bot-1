@@ -22,6 +22,9 @@ License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICE
   <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Telegraph-Uploader-Bot">
      <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
+  <a href="https://youtu.be/DwFFdaSJ9yM">
+    <img height="25px" src="https://img.shields.io/badge/How_to_Deploy-30302f?style=flat&logo=youtube">
+  </a>
 </p>
 
 ### Requirements
