@@ -10,6 +10,12 @@ Copyright permission under GNU General Public License v3.0
 License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE 
 ```
 
+## Variables
+
+* `API_HASH` Your API Hash from my.telegram.org
+* `API_ID` Your API ID from my.telegram.org
+* `BOT_TOKEN` Your bot token from @BotFather
+
 ## Deploy
 
 <p align="left">
