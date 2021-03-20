@@ -2,7 +2,8 @@
 # (c) @FayasNoushad
 # Copyright permission under GNU General Public License v3.0
 
-# All rights reserved by FayasNoushad # License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE
+# All rights reserved by FayasNoushad
+# License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE
 # This is only for personal use Dont use this for your bot channel business 
 # Thanks to Pyrogram Library
 
