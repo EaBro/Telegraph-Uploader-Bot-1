@@ -3,7 +3,6 @@
 # Copyright permission under GNU General Public License v3.0
 # All rights reserved by FayasNoushad
 # License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE
-# This is only for personal use Dont use this for your bot channel business
 
 import os
 from pyrogram import Client, filters
@@ -17,7 +16,6 @@ FayasNoushad = Client(
     api_hash = os.environ["API_HASH"],
 )
 
-# Don't remove or edit "Made by @FayasNoushad"
 START_TEXT = """
 Hello {}, I' am small media or file to telegra.ph link uploader bot.
 
@@ -36,7 +34,6 @@ async def start(bot, update):
         text=START_TEXT.format(update.from_user.mention),
         parse_mode="html",
         disable_web_page_preview=True,
-        # Don't remove or edit these buttons
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⚙ Channel ⚙', url='https://telegram.me/FayasNoushad'), InlineKeyboardButton('⚙ Group ⚙', url='https://telegram.me/FayasChat')]]),
         reply_to_message_id=update.message_id
     )
@@ -69,10 +66,8 @@ async def getmedia(bot, update):
         )
         return
     await dwn.edit_text(
-        # Don't remove or edit "Join :- @FayasNoushad"
         text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @FayasNoushad",
         disable_web_page_preview=True,
-        # Don't remove or edit these buttons
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Open Link", url=f"https://telegra.ph{response[0]}"), InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}"),],
                                            [InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://telegram.me/FayasNoushad")]])
     )
