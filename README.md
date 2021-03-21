@@ -10,12 +10,6 @@ Copyright permission under GNU General Public License v3.0
 License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE
 ```
 
-## Variables
-
-* `API_HASH` Your API Hash from my.telegram.org
-* `API_ID` Your API ID from my.telegram.org
-* `BOT_TOKEN` Your bot token from @BotFather
-
 ## Deploy
 
 <p align="left">
@@ -26,6 +20,20 @@ License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICE
     <img height="30px" src="https://img.shields.io/badge/How%20To%20Deploy-red?style=for-the-badge&logo=youtube">
   </a>
 </p>
+
+```
+git clone https://github.com/FayasNoushad/Telegraph-Uploader-Bot
+cd Telegraph-Uploader-Bot
+pip3 install -r requirements.txt
+# <Create Variables appropriately>
+python3 bot.py
+```
+
+## Variables
+
+* `API_HASH` Your API Hash from my.telegram.org
+* `API_ID` Your API ID from my.telegram.org
+* `BOT_TOKEN` Your bot token from @BotFather
 
 ### Requirements
 
