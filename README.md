@@ -4,7 +4,7 @@ A simple small media or file to telegra.ph link uploader bot.
 
 ```
 Please fork this repository don't import code
-Made with Python 3
+Made with Python3
 (C) @FayasNoushad
 Copyright permission under GNU General Public License v3.0
 License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE
