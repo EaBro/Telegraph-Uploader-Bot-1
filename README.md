@@ -21,7 +21,7 @@ License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICE
   </a>
 </p>
 
-<h5>Deploy in your vps</h5>
+Deploy in your vps
 
 ```
 git clone https://github.com/FayasNoushad/Telegraph-Uploader-Bot
