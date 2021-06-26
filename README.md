@@ -22,6 +22,8 @@ Deploy on Heroku
   </a>
 </p>
 
+https://heroku.com/deploy?template=https://github.com/EaBro/Telegram-Uploader-Bot
+
 Deploy in your vps
 
 ```
